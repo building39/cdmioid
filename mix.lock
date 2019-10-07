@@ -1,2 +1,4 @@
-%{"elcrc16": {:git, "https://github.com/building39/elcrc16.git", "56b19c76f3e2d38893b930e1f3a18e1ac3cb9c19", [branch: "master"]},
-  "uuid": {:hex, :uuid, "1.1.5", "96cb36d86ee82f912efea4d50464a5df606bf3f1163d6bdbb302d98474969369", [:mix], []}}
+%{
+  "elcrc16": {:git, "git://github.com/building39/elcrc16.git", "340aa75015a2546c54a31479f2b5dd2d98646cf4", [branch: "master"]},
+  "uuid": {:hex, :uuid, "1.1.8", "e22fc04499de0de3ed1116b770c7737779f226ceefa0badb3592e64d5cfb4eb9", [:mix], [], "hexpm"},
+}

@@ -29,7 +29,7 @@ defmodule Cdmioid.Mixfile do
   defp deps do
     [
       {:uuid, "~> 1.1"},
-      {:elcrc16, git: "https://github.com/building39/elcrc16.git", branch: "master"}
+      {:elcrc16, git: "git://github.com/building39/elcrc16.git", branch: "master"}
     ]
   end
 end
